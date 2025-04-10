@@ -3,7 +3,7 @@
 ## About Me
 
 ### ❕ Areas of Interest:
-- Biomedical Signal Processing and Analysis
+- Biomedical Image and Signal Processing and Analysis
 - Data Science and Analytics
 - Wearable Devices
 
