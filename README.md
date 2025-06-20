@@ -5,6 +5,7 @@
 ### ❕ Areas of Interest:
 - Biomedical Image and Signal Processing and Analysis
 - Data Science and Analytics
+- Product, UX and Human Factors
 - Wearable Devices
 
 ### 🎓 Education:
